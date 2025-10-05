@@ -60,6 +60,3 @@ CSS3 (Flexbox & Grid) – Styling, layout, responsiveness
 
 
 
-│── style.css       # CSS file (optional if separated)
-│── /images         # Store images (optional)
-│── README.md       # Project d
